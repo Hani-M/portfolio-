@@ -11,3 +11,6 @@ The project setup instructions are:
  * Open it on the preffered editor.
  
 The live site on my GitHub Page is; [link](https://hani-m.github.io/portfolio-/)
+
+Lisence: 
+[link](https://raw.githubusercontent.com/Hani-M/portfolio-/master/LICENSE)
